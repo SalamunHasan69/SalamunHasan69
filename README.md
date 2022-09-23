@@ -1,5 +1,5 @@
 [![MasterHead](https://present.readthedocs.io/en/latest/_images/welcome-to-coding.gif)](https://SalamunHasan.69)
-<h1 align="center">Hi 👋, I'm Salamun Hasan</h1>
+<h1 align="center">Hey 👋, I'm Salamun Hasan</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 <img align="right" width="400" src="https://camo.githubusercontent.com/e278cbf655da98c004011927c9b4ef9ace0e73c9b8a41892b778bbe03c045379/68747470733a2f2f637373706f696e743130312e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f31302f446576656c6f7065722d6f6e2d6c6170746f702e676966" alt="Coding">
 
@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **salamun2600@gmail.com**
 
-- ⚡ Fun fact **I am funny**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
