@@ -3,9 +3,7 @@
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 <img align="right" width="400" src="https://camo.githubusercontent.com/e278cbf655da98c004011927c9b4ef9ace0e73c9b8a41892b778bbe03c045379/68747470733a2f2f637373706f696e743130312e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f31302f446576656c6f7065722d6f6e2d6c6170746f702e676966" alt="Coding">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=salamunhasan69&label=Profile%20views&color=0e75b6&style=flat" alt="salamunhasan69" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=salamunhasan69" alt="salamunhasan69" /></a> </p>
 
 - 📫 How to reach me **salamun2600@gmail.com**
 
